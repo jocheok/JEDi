@@ -1,5 +1,5 @@
 
-var key = "AIzaSyBXWH8-f9n91Qeuo_2S9MBM-iV6wf8Odzo";
+var key = "AIzaSyDaPNNL9xrzW9PohAyWUPfcNoqpSOR9A1A";
 // custom styles that could be applied to the map
 var myStyles = [
   {
